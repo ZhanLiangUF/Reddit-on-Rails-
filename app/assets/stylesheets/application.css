@@ -1,0 +1,15 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body {
+	background-color: lightblue;
+
+}
+
+h2 {
+	text-align: center;
+}
+
+a {
+	color: darkblue;
+}
